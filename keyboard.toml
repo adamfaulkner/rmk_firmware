@@ -5,7 +5,7 @@ product_name = "RMK Keyboard"
 vendor_id = 0x4c8c
 product_id = 0x4a47
 manufacturer = "adam"
-board = "nice!nano"
+board = "nice!nano_v2"
 usb_enable = true
 
 # Not used for split keyboards
